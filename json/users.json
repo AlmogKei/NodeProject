@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "65ccf772f32737d68d69a27e"
+  },
+  "name": "almog k",
+  "email": "almogk@walla.com",
+  "password": "123",
+  "createdAt": {
+    "$date": "2024-03-20T17:25:06.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T17:25:06.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ccfb73724754d8293eb307"
+  },
+  "name": "joe ",
+  "email": "joe@walla.com",
+  "password": "1234",
+  "createdAt": {
+    "$date": "2024-03-20T17:25:06.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T17:25:06.918Z"
+  },
+  "__v": 0,
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "65cd0dee5ee614061a8577e7"
+  },
+  "name": "orel",
+  "email": "orel@walla.com",
+  "password": "123",
+  "createdAt": {
+    "$date": "2024-03-20T17:25:06.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T17:25:06.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6254134251132c1ac6623"
+  },
+  "name": "lola",
+  "email": "lola@walla.com",
+  "password": "123",
+  "createdAt": {
+    "$date": "2024-03-20T17:25:06.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T17:25:06.918Z"
+  },
+  "__v": 0,
+  "role": "admin"
+}]

@@ -1,0 +1,62 @@
+[
+  {
+  "_id": "",
+  "name": "car red",
+  "info": "car toy",
+  "category": "cars",
+  "img_url": "",
+  "price": 50,
+  "date_created": "",
+  "user_id": ""
+  },
+  {
+  "_id": "",
+  "name": "car yellow",
+  "info": "car toy",
+  "category": "cars",
+  "img_url": "",
+  "price": 60,
+  "date_created": "",
+  "user_id": ""
+  },
+  {
+  "_id": "",
+  "name": "hammer",
+  "info": "tools toy",
+  "category": "tools",
+  "img_url": "",
+  "price": 180,
+  "date_created": "",
+  "user_id": ""
+  },
+  {
+  "_id": "",
+  "name": "drill",
+  "info": "tools toy",
+  "category": "tools",
+  "img_url": "",
+  "price": 175,
+  "date_created": "",
+  "user_id": ""
+  },
+  {
+  "_id": "",
+  "name": "cup plastic",
+  "info": "kitchen tools",
+  "category": "kitchen",
+  "img_url": "",
+  "price": 10,
+  "date_created": "",
+  "user_id": ""
+  },
+  {
+  "_id": "",
+  "name": "plate plastic",
+  "info": "kitchen tools",
+  "category": "kitchen",
+  "img_url": "",
+  "price": 15,
+  "date_created": "",
+  "user_id": ""
+  }
+  ]

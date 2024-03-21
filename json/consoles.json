@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "659264534d2bc8b9baf514e0"
+  },
+  "name": "play station 2",
+  "year": 2000,
+  "company": "sony"
+},
+{
+  "_id": {
+    "$oid": "659264694d2bc8b9baf514e1"
+  },
+  "name": "Mega drive",
+  "year": 1989,
+  "company": "sega"
+},
+{
+  "_id": {
+    "$oid": "659264834d2bc8b9baf514e2"
+  },
+  "name": "Game boy",
+  "year": 1990,
+  "company": "nintendo"
+},
+{
+  "_id": {
+    "$oid": "65926f27c0b7340b75660923"
+  },
+  "name": "Megason",
+  "year": 1985,
+  "company": "nintendo",
+  "img_url": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6592745f246195965b540f76"
+  },
+  "name": "Game gear",
+  "year": 1992,
+  "company": "sega",
+  "img_url": "",
+  "__v": 0
+}]
